@@ -8,6 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="Mohamed" HorizontalAlignment="Left" Margin="360,0,0,0" VerticalAlignment="Center" Height="71" Width="189" FontSize="36" FontWeight="Bold"/>
+        <Button Content="Mona" HorizontalAlignment="Left" Margin="142,0,0,0" VerticalAlignment="Center" Height="71" Width="189" FontSize="36" FontWeight="Bold"/>
+        <Button Content="tiger" HorizontalAlignment="Left" Margin="554,0,0,0" VerticalAlignment="Center" Height="71" Width="189" FontSize="36" FontWeight="Bold"/>
 
     </Grid>
 </Window>

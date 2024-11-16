@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{F0DE0C3A-0940-4BBF-978C-ABFB3550FB5E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0DE0C3A-0940-4BBF-978C-ABFB3550FB5E}|WpfApp1\\WpfApp1.csproj|c:\\users\\mohamed.elsayed\\desktop\\mone\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0DE0C3A-0940-4BBF-978C-ABFB3550FB5E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\mohamed.elsayed\\Desktop\\mone\\WpfApp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0DE0C3A-0940-4BBF-978C-ABFB3550FB5E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,8 +42,7 @@
               "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T16:59:18.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T16:59:18.718Z"
             }
           ]
         }
